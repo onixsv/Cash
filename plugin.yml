@@ -1,0 +1,10 @@
+name: Cash
+author: alvin0319
+main: Cash\Cash
+version: 1.0.0
+api: 4.0.0
+
+commands:
+  캐시:
+    description: 캐시 명령어입니다.
+    aliases: [ "cash" ]
